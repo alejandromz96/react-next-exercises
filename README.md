@@ -34,6 +34,7 @@ npm run dev
 All exercises can be accessed from the homepage (/) or by navigating directly to their respective routes.
 
 | Exercise | Description | Route
+|:-----|:--------|:------|
 | To Do List | Task list using useReducer | /exercises/todo-list
 | Signup Form | Form with validation using useForm | /exercises/signup-form
 | Alert | Reusable alert component with styles and variants | /exercises/alert
