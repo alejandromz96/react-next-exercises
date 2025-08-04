@@ -1,6 +1,6 @@
 import SignupForm from "@/components/SignupForm";
 
-export default function ToDoListPage() {
+const SignupFormPage = () => {
   return (
     <>
       <h1 className="mb-6 text-3xl font-bold">Signup Form</h1>
@@ -8,3 +8,5 @@ export default function ToDoListPage() {
     </>
   );
 }
+
+export default SignupFormPage;

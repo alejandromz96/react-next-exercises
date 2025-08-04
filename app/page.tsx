@@ -7,6 +7,7 @@ export default function HomePage() {
     { name: "Tabs", path: "exercises/tabs" },
     { name: "To Do List", path: "exercises/todo-list" },
     { name: "Signup Form", path: "exercises/signup-form" },
+    { name: "Local Storage", path: "exercises/local-storage" },
   ];
 
   return (

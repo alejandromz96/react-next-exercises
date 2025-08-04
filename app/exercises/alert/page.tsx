@@ -1,6 +1,6 @@
 import Alert from "@/components/Alert";
 
-export default function ToDoListPage() {
+const AlertPage = () => {
   return (
     <>
       <h1 className="mb-6 text-3xl font-bold">Alert</h1>
@@ -12,3 +12,5 @@ export default function ToDoListPage() {
     </>
   );
 }
+
+export default Alert;

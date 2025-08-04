@@ -1,7 +1,7 @@
 "use client";
 import Tabs from "@/components/Tabs";
 
-export default function ToDoListPage() {
+const TabsPage = () => {
   return (
     <>
       <h1 className="mb-6 text-3xl font-bold">Tabs</h1>
@@ -22,3 +22,5 @@ export default function ToDoListPage() {
     </>
   );
 }
+
+export default TabsPage;

@@ -1,7 +1,7 @@
 "use client"
 import Timer from "@/components/Timer";
 
-export default function ToDoListPage() {
+const TimerPage = () => {
   return (
     <>
       <h1 className="mb-6 text-3xl font-bold">Timer</h1>
@@ -9,3 +9,5 @@ export default function ToDoListPage() {
     </>
   );
 }
+
+export default TimerPage;
