@@ -13,4 +13,4 @@ const AlertPage = () => {
   );
 }
 
-export default Alert;
+export default AlertPage;

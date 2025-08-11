@@ -8,6 +8,10 @@ export default function HomePage() {
     { name: "To Do List", path: "exercises/todo-list" },
     { name: "Signup Form", path: "exercises/signup-form" },
     { name: "Local Storage", path: "exercises/local-storage" },
+    { name: "Fetched Posts", path: "exercises/fetched-posts" },
+    { name: "Window Size", path: "exercises/window-size" },
+    { name: "On Screen", path: "exercises/on-screen" },
+    { name: "Event Bus", path: "exercises/event-bus" },
   ];
 
   return (
